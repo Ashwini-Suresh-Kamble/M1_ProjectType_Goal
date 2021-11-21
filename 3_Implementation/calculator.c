@@ -1,4 +1,4 @@
-// Calculator example using C code
+// Commercial Calculator example using C code
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
