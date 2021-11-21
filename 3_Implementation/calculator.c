@@ -1,4 +1,4 @@
-/* Program for a simple calculator 
+/* Program for a commercial calculator 
 in C using Switch_Case */
 #include <stdio.h>
 #include <conio.h>
