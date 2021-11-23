@@ -1,2 +1,20 @@
 In this C program, the user is prompted to choose the operations(i.e. addition, subtraction etc)  to be performed and then prompted to key in the values which are used to perform the operations.
 Then, the result will be shown as output to the user.
+#Requirements
+# Introduction: A basic calculator is sometimes referred to as a 4-function calculator. It's able to do simple arithmetic, which includes addition, subtraction, multiplication, and division. The tool used for writing the code in this project is visual studio code.
+# Research:
+Use a basic calculator at home to figure out your monthly budget, or when you're trying to cook a new recipe. This technology allows students solve complicated problems quickly and in an efficient manner. Additionally, it can reduce the problem to simpler tasks and allows the student to devote more time in understanding the problem. Secondly, they are saved from monotonous calculations and the same boring mundane procedure.
+It is almost impossible for us to imagine mathematics without something as seemingly simple as a calculator.
+Calculators have not only greatly enhanced our ability to perform the regular computations that are involved in everyday life, but provided humans with the ability to understand mathematics on a greater scale than ever imagined. 
+SWOT analysis:
+Strengths: Accurate, User-friendly.
+Weakness: Dependency, Cheating, Relying too much on calculator.
+Opportunities: We know that we mostly use pen and paper for calculation, calculators can reduce the problem to simpler tasks.
+Threats: Relying on a calculator results in a child being unable to progress in math due to lack of fluency and recall of facts.
+
+4'W and 1'H
+What: Calculator
+Where: School, shops, industries, pharmacy.
+When: Need for calculation.
+How: Calculates the user input based on required operation and gives the output.
+
