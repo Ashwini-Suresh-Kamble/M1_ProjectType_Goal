@@ -28,3 +28,19 @@ Need for calculation.
 ### How:
 Calculates the user input based on required operation and gives the output.
 
+# Detail Requirements
+
+## High-Level Requirements
+
+ ID	          DESCRIPTION                                             	STATUS
+HL01	   Take a proper input from user.	                              Implemented
+HL02	   Give a proper command for the required operation. 	          Implemented
+
+## Low-Level Requirements
+
+ ID	          DESCRIPTION                                             	STATUS
+LL01	   Print the solution if exist.	                              Implemented
+
+
+
+
