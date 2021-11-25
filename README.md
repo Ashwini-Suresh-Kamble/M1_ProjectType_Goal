@@ -3,3 +3,6 @@ In this c program, the user is prompted to choose the operations(i.e. addition, 
 
 
 ![Code Inspector](https://api.codiga.io/project/29892/score/svg)
+!cppcheck(ScientificCalculator.a1::C:/Users/USER/Documents/GitHub/M1_ProjectType_Goal/3_Implementation/ScientificCalculator.c)
+
+
