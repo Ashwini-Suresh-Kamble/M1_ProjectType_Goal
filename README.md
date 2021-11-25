@@ -3,6 +3,6 @@ In this c program, the user is prompted to choose the operations(i.e. addition, 
 
 
 ![Code Inspector](https://api.codiga.io/project/29892/score/svg)
-
+![Code Grade-Code Inspector](https://api.codiga.io/project/29892/status/svg)
 
 
