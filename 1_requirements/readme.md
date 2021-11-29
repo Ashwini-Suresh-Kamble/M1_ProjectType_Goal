@@ -32,6 +32,8 @@ Calculates the user input based on required operation and gives the output.
 
 ## High-Level Requirements
 ### ID | Description | Implemented
+----------------------------
+HL01| Take a proper input from user | Implemented
 
 ### ID- HL01
 DESCRIPTION- Take a proper input from user.
