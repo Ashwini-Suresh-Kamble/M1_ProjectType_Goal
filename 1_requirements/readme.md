@@ -32,24 +32,18 @@ Calculates the user input based on required operation and gives the output.
 
 ## High-Level Requirements
 
-| ID |   Description                                      |   Implemented|
+| ID |   Description                                      |   Status|
 |----|----------------------------------------------------|--------------|
 |HL01| Take a proper input from user                      | Implemented  |
 |HL02| Give a proper command for the required operation   | Implemented  |
 
-### ID- HL01
-DESCRIPTION- Take a proper input from user.
-STATUS- Implemented
-
-### ID- HL02
-DESCRIPTION- Give a proper command for the required operation.
-STATUS- Implemented
-
 ## Low-Level Requirements
 
-### ID- LL01
-DESCRIPTION- Print the solution if exist.
-STATUS- Implemented
+| ID |   Description                 | Status     |
+|----|-------------------------------|------------|
+|LL01| Print the solution if exist.  | Implemented|
+
+
 
 
 
